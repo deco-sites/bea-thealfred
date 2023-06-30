@@ -200,7 +200,8 @@ const manifest = {
     "deco-sites/bea-thealfred/sections/Content/Faq.tsx": $$$$$$$$10,
     "deco-sites/bea-thealfred/sections/Content/Logos.tsx": $$$$$$$$9,
     "deco-sites/bea-thealfred/sections/Content/Testimonials.tsx": $$$$$$$$8,
-    "deco-sites/bea-thealfred/sections/DesignSystem/DesignSystem.tsx": $$$$$$$$1,
+    "deco-sites/bea-thealfred/sections/DesignSystem/DesignSystem.tsx":
+      $$$$$$$$1,
     "deco-sites/bea-thealfred/sections/Footer/Footer.tsx": $$$$$$$$0,
     "deco-sites/bea-thealfred/sections/Header/Header.tsx": $$$$$$$$23,
     "deco-sites/bea-thealfred/sections/Images/BannerGrid.tsx": $$$$$$$$5,
@@ -209,8 +210,10 @@ const manifest = {
     "deco-sites/bea-thealfred/sections/Images/ShoppableBanner.tsx": $$$$$$$$4,
     "deco-sites/bea-thealfred/sections/Links/LinkTree.tsx": $$$$$$$$20,
     "deco-sites/bea-thealfred/sections/Links/Shortcuts.tsx": $$$$$$$$21,
-    "deco-sites/bea-thealfred/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$$$16,
-    "deco-sites/bea-thealfred/sections/Miscellaneous/CookieConsent.tsx": $$$$$$$$17,
+    "deco-sites/bea-thealfred/sections/Miscellaneous/CampaignTimer.tsx":
+      $$$$$$$$16,
+    "deco-sites/bea-thealfred/sections/Miscellaneous/CookieConsent.tsx":
+      $$$$$$$$17,
     "deco-sites/bea-thealfred/sections/Newsletter/Newsletter.tsx": $$$$$$$$22,
     "deco-sites/bea-thealfred/sections/Product/ProductDetails.tsx": $$$$$$$$15,
     "deco-sites/bea-thealfred/sections/Product/ProductShelf.tsx": $$$$$$$$14,
